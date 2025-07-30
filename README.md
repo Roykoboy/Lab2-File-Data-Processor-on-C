@@ -55,7 +55,10 @@ This project is a C program that processes numerical data from input.txt and out
 
     * Input: 4 3 8 5
 
-    * Output: 4 3  8 5 
+    * Output:
+      ```
+      4 3  8 5
+      ``` 
 
 ## What This Project Covers
 ✅ File handling in C (fopen, fclose, fscanf, fprintf).
